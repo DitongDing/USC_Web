@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	line-height: 1.428571429;
+	color: #2c3e50;
+	background-color: #fff;
+}
+
+#main_container {
+	padding-top: 40px;
+}
+
+#page_header {
+	padding: 20px 0px;
+}
+
+.page_content {
+	padding: 10px 0px;
+}
+
+#page_header,.page_content {
+	border-bottom: 1px solid #ecf0f1;
+}
